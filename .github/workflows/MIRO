@@ -1,4 +1,27 @@
-Application questions
+1. Screening zoom call with miro Sr. Tech Recruiter who contacted me on LinkedIn multiple times (nice energy!)
+2. Session with the hiring manager
+3. Session with the tech team
+4. Behavioural session (~ a bar raiser interview)
+5. Recruiter offer presentation
+6. Feedback session
+
+The whole process was done in the best possible and respectful way! The Sr. Tech Recruiter was independent, 
+professional and super responsive! I had the impression that we are working together to get the most out of the situation which I really appreciate.
+
+A technical assignment (~ 2-3 days) is related to a straightforward Data Engineering pipeline. 
+In the session with the team, we went through the code and implementation trade-offs.
+
+There was no architecture design session or general engineering questions like (CAP, DevOps, ...).
+
+In the end, a bar raiser interview was the most interesting session.
+In the end, I have decided to go for another offer just because I believe I would have at this time more fun and a bigger impact with most of the core engineering team located in Berlin.Application questions
 1. AWS (VPCs, Load Balancers, Autoscaling groups) 
 2. Kubernetes (core services, EBS volume for Statefulset in different AZs) 3. Terraform (stupid questions like "what are 3 ways to less code", "pros/cons of terraform workspaces") 
 4. Concepts of Python (data types, which are mutable/imutable, what is decorator) 5. Name Linux debug tools and describe them
+
+
+
+1) Python theory concepts 2) AWS (VPCs, Load Balancers, Autoscaling groups) 
+3) Linux troubleshooting 4) Grafana + Prometheus 5) Terraform (modules, terrafrom state, etc)
+
+

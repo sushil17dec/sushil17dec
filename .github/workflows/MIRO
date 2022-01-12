@@ -1,0 +1,4 @@
+Application questions
+1. AWS (VPCs, Load Balancers, Autoscaling groups) 
+2. Kubernetes (core services, EBS volume for Statefulset in different AZs) 3. Terraform (stupid questions like "what are 3 ways to less code", "pros/cons of terraform workspaces") 
+4. Concepts of Python (data types, which are mutable/imutable, what is decorator) 5. Name Linux debug tools and describe them

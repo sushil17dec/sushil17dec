@@ -1,0 +1,25 @@
+Initial Phone Screen . Interviewer was super helpful. Nice Experience
+
+Behaviourial : 4 Leadership Question
+a. Tell me when you said no to customer and how you handle it
+b. Tell time when you helped the team mate who is not able to deliver the work
+c. Tell me the approach you took which benfit the organiztion.
+d. Tell me the most difficult project you handled.
+
+ETL :
+Design a Ingestion Pipeline which can scale to consume any number of excel/csv file landing on S3 . For example currently consuming 500 what if it have 2000 tommrrow.Define your approach.
+
+Sol - ETL question : Build a event driven pipeline for incoming csv files. Create a Lambda function to detect landing CSVs in S3 bucket, modify the manifest file (which serves as list of files on which ETL is to be performed) and run the job. In this way, data pipeline can scale to incoming files on S3.
+
+Read More
+@bhardwajcode You can try spark streaming if you have EMR in your pipeline, you can integrate with SQS, step functions, and other AWS services. With lambda, you can get to make any changes on the fly to the csv file
+
+Python:
+https://leetcode.com/problems/find-the-difference/
+
+SQL :
+A seller on amazon seller wants to see his/her total products and total revenue per day.Design a data model and which data modeling technique you pick (dimensional or ER model) for same and write the sql for it.
+
+What is Index and what purpose they serve? What consideration to keep in mind while defining index .
+
+What is difference between views,temp table and staging table.
